@@ -4,9 +4,13 @@
 
 ## Description
 This is where the decription of the model will go. Here is what it will contain:
+
 **Gender** Male/Female
+
 **Age Range** Baby(X-Y), Teen(X-Y), etc
+
 **Ethnicity** Spanish, etc
+
 **Era** Medieval, 18th Century Goth, etc
 
 **Dimensions**
@@ -43,7 +47,9 @@ Texture 1
   
 ## Developed In
 **Krita vX.YY** Concept
+
 **GIMP vX.YY** Textures
+
 **Blender vX.YY** 3D Model
 
 ## How to use rig
@@ -64,17 +70,25 @@ being inquisitive.
 
 ## Support
 PayPal details
+
 Patreon details
 
 ## Artist
 **Rai** for *Studio Name*
+
 Facebook
+
 Instagram
+
 DeviantArt
+
 Pinterest
+
 Github
+
 Personal Website
 
 ## Acknowledgements
 Hat tip to anyone who helped or inspired.
+
 Eg. cgtextures.com, etc
