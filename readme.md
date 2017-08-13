@@ -3,7 +3,7 @@
 # Model Name
 
 ## Description
-This is where the decription of the model will go. Here is what it will contain:
+This is where the description of the model will go. Here is what it will contain:
 
 **Gender** Male/Female
 
@@ -37,7 +37,7 @@ This is where the decription of the model will go. Here is what it will contain:
   * .skp
   
 ## Preview
-**Textureless**
+**Texture-less**
 
 ![3q](/FINAL/3q.png)
 ![Front](/FINAL/front.png)
@@ -79,7 +79,7 @@ PayPal details
 
 Patreon details
 
-Site where I sell None-open source stuff.
+Site where I sell Non-open source stuff.
 
 ## Artist
 **Rai** for *Studio Name*
