@@ -37,17 +37,19 @@ This is where the decription of the model will go. Here is what it will contain:
   * .skp
   
 ## Name this section
-Textureless
+**Textureless**
+
 ![3q](/FINAL/3q.png)
 ![Front](/FINAL/front.png)
-![Side](/FINAL/side.png)
+![Side](/FINAL/profile.png)
 ![Back](/FINAL/back.png)
 
-Texture 1
-![3q](/images/3q.png)
-![Front](/images/front.png)
-![Side](/images/side.png)
-![Back](/images/back.png)
+**Texture 1**
+
+![3q](/FINAL/3q.png)
+![Front](/FINAL/front.png)
+![Side](/FINAL/profile.png)
+![Back](/FINAL/back.png)
   
 ## Developed In
 **Krita vX.YY** Concept
