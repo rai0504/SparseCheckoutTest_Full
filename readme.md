@@ -36,7 +36,7 @@ This is where the decription of the model will go. Here is what it will contain:
   * .3ds
   * .skp
   
-## Name this section
+## Preview
 **Textureless**
 
 ![3q](/FINAL/3q.png)
