@@ -79,20 +79,24 @@ PayPal details
 
 Patreon details
 
+Site where I sell None-open source stuff.
+
 ## Artist
 **Rai** for *Studio Name*
 
-Facebook
+**Facebook** Find out if I'm cool or not.
 
-Instagram
+**Instagram** Follow my work.
 
-DeviantArt
+**YouTube** See how I do my stuff.
 
-Pinterest
+**DeviantArt** My best works.
 
-Github
+**Pinterest** See what inspires me.
 
-Personal Website
+**Github** Get my source files.
+
+**Personal Website** See what I have done so far, and what I'm currently involved in.
 
 ## Acknowledgements
 Hat tip to anyone who helped or inspired.
