@@ -30,14 +30,16 @@ This is where the decription of the model will go. Here is what it will contain:
   
 ## Name this section
 Textureless
-![Studio Logo](/images/3q.png)
-![Studio Logo](/images/front.png)
-![Studio Logo](/images/side.png)
+![3q](/images/3q.png)
+![Front](/images/front.png)
+![Side](/images/side.png)
+![Back](/images/back.png)
 
 Texture 1
-![Studio Logo](/images/3q.png)
-![Studio Logo](/images/front.png)
-![Studio Logo](/images/side.png)
+![3q](/images/3q.png)
+![Front](/images/front.png)
+![Side](/images/side.png)
+![Back](/images/back.png)
   
 ## Developed In
 **Krita vX.YY** Concept
@@ -51,9 +53,12 @@ The rig how-to is in the blend file.
 You're free to use the model in any project, be it commercial or non-commercial,
 without any restraint or credit. Although, any credit to the artist would be
 appreciated.
+
 I've named the character solely for my convenience. You can rename it to anything
 else.
+
 This model must not be resold.
+
 If possible, I would like to know where this model is being used. This is just me
 being inquisitive.
 
