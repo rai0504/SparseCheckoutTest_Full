@@ -1,4 +1,4 @@
-![Studio Logo](/images/logo.png)
+![Studio Logo](/logo.png)
 
 # Model Name
 
