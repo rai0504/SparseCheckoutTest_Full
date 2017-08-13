@@ -19,12 +19,16 @@ This is where the decription of the model will go. Here is what it will contain:
   
 **Textured** Yes/No (if yes, number of textures)
 	* Texture 1 (image dimensions)
+	
 **Rigged** Yes/No
+
 **Animation**
   * animation cycle 1 (frame length)
   * animation cycle 2 (frame length)
   * animation cycle n (frame length)
+  
 **3D Printable** Yes/No
+
 **3D Format**
   * .fbx
   * .obj
@@ -34,10 +38,10 @@ This is where the decription of the model will go. Here is what it will contain:
   
 ## Name this section
 Textureless
-![3q](/images/3q.png)
-![Front](/images/front.png)
-![Side](/images/side.png)
-![Back](/images/back.png)
+![3q](/FINAL/3q.png)
+![Front](/FINAL/front.png)
+![Side](/FINAL/side.png)
+![Back](/FINAL/back.png)
 
 Texture 1
 ![3q](/images/3q.png)
